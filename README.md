@@ -6,6 +6,7 @@
 - mocha
 
 # work project
+- npm install
 - node app.js
 
 # unit text 
