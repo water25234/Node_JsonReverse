@@ -4,6 +4,7 @@
 # Prerequisite
 - Node.js
 - mocha
+- should
 
 # work project
 - npm install
