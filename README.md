@@ -10,6 +10,6 @@
 - npm install
 - node app.js
 
-# unit text 
+# unit test 
 - mocha
 
